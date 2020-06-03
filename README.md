@@ -8,6 +8,11 @@ npm install next-prev-page
 ### components
 
  - NextPrevPage 
+ 
+ ## Preview
+ 
+<img src="1.png" height="300">
+<img src="2.png" height="300">
 
 
 ## Features
