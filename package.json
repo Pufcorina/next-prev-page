@@ -1,0 +1,39 @@
+{
+  "name": "next-prev-page",
+  "version": "10.0.1",
+  "description": "React Component for a next previous page layout",
+  "main": "build/index.js",
+  "repository": {
+    "type": "git",
+    "url": "<git_repo_url>"
+  },
+  "peerDependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "scripts": {
+    "start": "webpack --watch",
+    "build": "webpack"
+  },
+  "author": {
+    "name": "<your npm name>"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "css-loader": "^3.5.3",
+    "react": "^16.4.0",
+    "style-loader": "^1.2.1",
+    "webpack": "^4.12.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.10.2",
+    "@babel/preset-env": "^7.10.2",
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.7.0",
+    "webpack-cli": "^3.0.4"
+  }
+}
